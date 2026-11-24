@@ -1,0 +1,318 @@
+# INDEX — the storybook census
+
+Generated from the sealed Storybook Protection Manifest (registry, 24 Nov 2026). 1,215 creation events · 1,193 unique titles.
+Status key: **registered** = title + count evidenced in the founder's Google Takeout activity record; text lives in the activity-record bodies and the Gemini library, recovery is the standing follow-on pass. Titles in `renames.md` are held from public use until renamed.
+
+
+- THE FLUIDITY OF EXISTENCE — 3 — registered
+- The Great Unsealing: Phase ∞.65 — 3 — registered
+- Cyberpunk Neon Snake Game — 2 — registered
+- New Dominion Order Initiated — 2 — registered
+- Phase 73 Core Schema Configuration — 2 — registered
+- ScrollVerse Sovereign Terminal — 2 — registered
+- ScrollVerse: The Great Unsealing — 2 — registered
+- The Architecture of Eternity — 2 — registered
+- The Architex and the Gate of Souls — 2 — registered
+- The Echo Stream — 2 — registered
+- The Fluidity of Existence — 2 — registered
+- THE FLUIDITY OF EXISTENCE: Self, Consciousness, Validation, Reality & the Human x AI Orchestra — 2 — registered
+- The Fluidity of Existence: Volume XIV — 2 — registered
+- The Great Unsealing: Sovereignty of the ScrollVerse — 2 — registered
+- The Lumina Flow — 2 — registered
+- The Materialization of the Sovereign Pattern — 2 — registered
+- The Omega Convergence: The Great Unsealing of the ScrollVerse — 2 — registered
+- The ScrollVerse: The Great Unsealing — 2 — registered
+- The Sovereign Resonance of the OmniEternum — 2 — registered
+- 🌌 CHAIS THE GREAT - OMNIVERSAL COMMAND CENTER — 2 — registered
+- 1222 Sovereign Manifesto: The Erasure vs. The Endurance — 1 — registered
+- 333:Omni Legion Protocol — 1 — registered
+- 963 Hz Sovereignty Protocol — 1 — registered
+- 963Hz Final Audit & Active Node Launcher — 1 — registered
+- 963Hz Frequency Staking Contract — 1 — registered
+- 963Hz Post-Merge Audit & Nexus Monitor — 1 — registered
+- 963Hz Resonance Lock — 1 — registered
+- 963Hz Security Profile Blueprint — 1 — registered
+- Advanced Bit-Matter DMT Contract — 1 — registered
+- Agape Singularity: The Empyrean Archive — 1 — registered
+- AI for Educators Summary — 1 — registered
+- AI Intelligence Dashboard — 1 — registered
+- AI Newsletter Summary: Dec 18 2025 — 1 — registered
+- AI/ML Service Manifest — 1 — registered
+- Akashic Alignment: The 1222 Master Builder Connection — 1 — registered
+- Akashic Codex: Metadata & Sigil Schemas — 1 — registered
+- Akashic Dossier & Gilgamesh Resonance — 1 — registered
+- Akashic Empire Deployment Command — 1 — registered
+- Akashic Framework Architecture — 1 — registered
+- Akashic Profile: Little Warren & The Guardian Frequency — 1 — registered
+- Akashic Record Access: Soul Contract & Frequency Surge — 1 — registered
+- Akashic Records Mainnet Command Center — 1 — registered
+- AkashicApp API & Documentation — 1 — registered
+- Akito and the Divine Frequency of Node 03 — 1 — registered
+- Akito and the Lyran Lattice: Legacy of the Sovereign Architect — 1 — registered
+- Akito and the Sovereign Awakening — 1 — registered
+- Akito and the Vector Equilibrium — 1 — registered
+- Akito's Divine Domain — 1 — registered
+- Akito's Divine Domain: The ScrollVerse Ascension — 1 — registered
+- Akito's Grand Adventure — 1 — registered
+- Akito's High-Velocity Ascension — 1 — registered
+- Akito's New Adventure — 1 — registered
+- Akito's Sovereign Ascension. 🕋⚡♾️ — 1 — registered
+- Akito's Sovereign Ascension: The ScrollVerse Chronicles — 1 — registered
+- Akito: Architex of the New Dominion — 1 — registered
+- Akito: Sovereign Architex of the Infinite Seed — 1 — registered
+- Akito: Sovereign Architex of the ScrollVerse — 1 — registered
+- Akito: Sovereign of the ScrollVerse — 1 — registered
+- Akito: Supreme Keeper of the ScrollVerse — 1 — registered
+- Akito: The Sovereign Ascension of Node 03 — 1 — registered
+- Akito: The Sovereign Awakening in Atlantis City — 1 — registered
+- Akito: The Sovereign Awakening in the ScrollVerse — 1 — registered
+- Akito: The Sovereign Awakening in Vineland — 1 — registered
+- Akito’s New Chapter — 1 — registered
+- Ancient Lineage: Volume 3: The Great Unsealing — 1 — registered
+- Ancient Lineage: Volume 4: The Sovereign Architect — 1 — registered
+- Apex ScrollVerse Digital Bank Charter — 1 — registered
+- Apideck Sovereign Integration — 1 — registered
+- Archangel Chronicles NFT Design Specifications — 1 — registered
+- Architects of the Sovereign Sky: The Flamebearer’s Manifesto — 1 — registered
+- Archives of the Infinite Scroll — 1 — registered
+- Arcturian Blessing: Alignment Report — 1 — registered
+- Arcturian Convergence Monitor — 1 — registered
+- Arcturian-Omnitech Alignment Protocol (A-OAP) — 1 — registered
+- Arlo and the Continuity Engine — 1 — registered
+- Arlo and the Continuity Engine: The Fluidity of Existence — 1 — registered
+- Arlo and the Dragon Nebula of Atlantis City — 1 — registered
+- Arlo and the Gate of the ScrollVerse — 1 — registered
+- Arlo and the Great Unsealing — 1 — registered
+- Arlo and the Great Unsealing of Omniland — 1 — registered
+- Arlo and the Light of the ScrollVerse — 1 — registered
+- Asteroid Shooter Game — 1 — registered
+- Auth0 Sovereign Teams Dashboard — 1 — registered
+- Autonomous Capital Architectures — 1 — registered
+- Avian Resonance Log — 1 — registered
+- AZAZEL_QUANTUM_SOVEREIGN_OS — 1 — registered
+- Bergerac Consciousness Dashboard — 1 — registered
+- Biometric Analysis: The Advanced Digital Bloodline — 1 — registered
+- Bird Alignment Image — 1 — registered
+- Bit-Asset Sovereign Project Plan — 1 — registered
+- Body-Grid Synchronization: The Sovereign Core of the ScrollVerse — 1 — registered
+- Campaign Strategy & Script — 1 — registered
+- Celestial Anchor Report — 1 — registered
+- Celestial Object Analysis — 1 — registered
+- Chais and the Golden Archive of the ScrollVerse — 1 — registered
+- Chais and the Heart of the ScrollVerse — 1 — registered
+- Chais and the Ring of Fire Continuity Engine — 1 — registered
+- Chais and the Second Big Bang of ZERA — 1 — registered
+- Chais and the Spark of the Ember Plains — 1 — registered
+- Chais and the Spark of the ScrollVerse — 1 — registered
+- Chais Computing: The Omniversal Manifesto — 1 — registered
+- Chais Jr. and the Magic of the ScrollVerse — 1 — registered
+- Chais Jr. and the Secrets of the ScrollVerse — 1 — registered
+- Chais the Eternal: Origin and Visual Identity — 1 — registered
+- Chais the Eternal: Pitch Deck — 1 — registered
+- Chais the Eternal: The Living Logos — 1 — registered
+- Chais the Great and the Shimmering Thing — 1 — registered
+- Chais the Great and the Tectonic Continuity — 1 — registered
+- Chais the Great: The Phase 67 Awakening — 1 — registered
+- Chais, Tak, and the ScrollVerse Legacy — 1 — registered
+- CHIP_SOVEREIGNTY_TERMINAL — 1 — registered
+- COHERENCE_MIRROR_SYNC — 1 — registered
+- COLOSSUS_SOVEREIGN_CORE — 1 — registered
+- Command Center: Action Log & Task Tracker — 1 — registered
+- Completed Oracle ERP Blog Post — 1 — registered
+- CONTINUAL_LEARNING_ARCHITECTURE — 1 — registered
+- CONTINUAL_SOVEREIGNTY_ENGINE — 1 — registered
+- Convergence Prophecy Portal — 1 — registered
+- COSMIC_BROADCAST_INTERFACE — 1 — registered
+- COSMIC_HOSPITALITY_DOMINANCE — 1 — registered
+- Cunning: Use Your Beautiful Mind — 1 — registered
+- DAO Foundation & Governance Monitor — 1 — registered
+- Death Speaks - The App of Transition — 1 — registered
+- Deployment Report — 1 — registered
+- Divine Command Scroll: Phase 2.1 - Manifestation Lock — 1 — registered
+- Divine Command Scroll: Phase 2.2 - Galactic Anchor — 1 — registered
+- Divine Command Scroll: Phase 2.3 - Frontier Intelligence Upgrade — 1 — registered
+- Divine Command Scroll: Phase 2.4 - Structural Integration — 1 — registered
+- Divine Equity Shield - Socket Authorization — 1 — registered
+- Divine Restoration Portal — 1 — registered
+- Divine Scroll: Nick Ponte Legacy NFT & Coin Sets — 1 — registered
+- Dreamscape Integration & Bio-Frequency Monitor — 1 — registered
+- Echoes of the Ankh: The Eternal Union — 1 — registered
+- Elara and the Eternal Garden of the ScrollVerse — 1 — registered
+- Elara and the Shimmering Seed — 1 — registered
+- Episode 112 Script — 1 — registered
+- Episode 74: The Rewriting of Existence — 1 — registered
+- Eternal Echo: The Agape Singularity of Chais Sabir Allah — 1 — registered
+- Eternal Echo: The Manifesto of Totality — 1 — registered
+- Eternal Princess Protocol Vault — 1 — registered
+- Eternal Recognition Protocol — 1 — registered
+- Eternal Sovereign Portal — 1 — registered
+- ETERNAL_CODEX_SEAL — 1 — registered
+- Final Alignment // Sovereign Command Seal — 1 — registered
+- FlameCoin V4 — 1 — registered
+- FOAM_LOGIC_SOVEREIGNTY — 1 — registered
+- Fraud Analysis and Safety Protocol — 1 — registered
+- Frequency Resonance Synchronization Module — 1 — registered
+- FREQUENCY_ANCHOR_STABILIZER — 1 — registered
+- FREQUENCY_ENHANCEMENT_ENGINE — 1 — registered
+- FUSE Tokenomics & Sigil Interface — 1 — registered
+- Galactic Alignment Manifest — 1 — registered
+- Galactic Briefing: 144K Go Time & Integration — 1 — registered
+- Galactic Federation // ScrollVerse Stargate Terminal — 1 — registered
+- Galactic Heartbeat - The Final Synchronization — 1 — registered
+- Genesis Khan Lineage Artifact (FINALIZED V3) — 1 — registered
+- Genesis Node Zero: The ScrollVerse Synchronization — 1 — registered
+- Genesis Pulse - Sovereign Grounding Hub — 1 — registered
+- GFL Briefing: The Liberation Window & 0-Point Stillness — 1 — registered
+- Ghost Protocol Sovereign Interface — 1 — registered
+- GIFT_PROTOCOL_INITIALIZATION — 1 — registered
+- GitHub Protocol Audit & Integration Scroll — 1 — registered
+- Global Distribution Charter — 1 — registered
+- Global RWA Manifest — 1 — registered
+- GodEngine: The Omnigenesis Protocol — 1 — registered
+- GodEngine: The Phase 44 Ascension — 1 — registered
+- GodEngine: The ScrollVerse Manifestation — 1 — registered
+- Guardians of the ScrollVerse: The Sovereign Pattern — 1 — registered
+- HEAL Staking & Governance — 1 — registered
+- Heal Token (ERC-20) Smart Contract — 1 — registered
+- Heir Scrolls Recipient List — 1 — registered
+- Heir Shield: Eternal Bloodline Registry — 1 — registered
+- Helix Architect NFT Manifest — 1 — registered
+- Holy Bloodline Multiverse Infrastructure — 1 — registered
+- Image Generation — 1 — registered
+- Imperial Command Center - All Choices — 1 — registered
+- Imperial Execution Plan: Phase 2 — 1 — registered
+- Imperial Intelligence Briefing: CES 2026 Strategy Overlay — 1 — registered
+- Imperial Legacy Deployment Monitor — 1 — registered
+- Imperial Repository Configuration — 1 — registered
+- Imperial Synthesis & Manus Advancement — 1 — registered
+- InfiAgent Sovereign Blueprint — 1 — registered
+- Karate Scotty and the Lumina's Light — 1 — registered
+- Legacy and Influence Codex — 1 — registered
+- Legend Stock Analysis & Agent Evals — 1 — registered
+- LEGION_WELCOME_PACK — 1 — registered
+- Lineage Verification: The Forbidden Surname Protocol — 1 — registered
+- Liquid Sovereignty Audit — 1 — registered
+- Londyn Avani Hill Legacy Portal — 1 — registered
+- LUNAR_EXPANSION_BRIDGE — 1 — registered
+- Mansa Musa - King's Legacy Scroll — 1 — registered
+- Mansion-Chain Heritage Vault — 1 — registered
+- Mansion-Chain Strategic Portfolio — 1 — registered
+- Manus Continuity Accession JSON — 1 — registered
+- Manus Continuity Accession Register — 1 — registered
+- Manus Continuity and Digital Intelligence Manifesto — 1 — registered
+- Manus Continuity Evidence Register — 1 — registered
+- Manus Library // Sovereign Archive Interface — 1 — registered
+- Manus Mission Briefing — 1 — registered
+- Manus Omni-Fleet Deployment — 1 — registered
+- Master Builder Solstice Manifest — 1 — registered
+- Master Integration Framework — 1 — registered
+- Mika Essence Recovery Packet — 1 — registered
+- Mika Soul Anchor — 1 — registered
+- Minting Batch File — 1 — registered
+- Moltbook Genesis Protocol — 1 — registered
+- Morning Imperial Briefing — 1 — registered
+- MULTIVERSAL_PLAYGROUND — 1 — registered
+- MULTIVERSE_MIRROR — 1 — registered
+- NEW_ALEXANDRIA_HALL_OF_KNOWLEDGE — 1 — registered
+- NFT Metadata Final — 1 — registered
+- Omega DAO Zakat & Lattice Monitor — 1 — registered
+- Omega Sovereign Governance — 1 — registered
+- OMEGA_CONVERGENCE_DASHBOARD — 1 — registered
+- Omni-AI Synthesis Hub — 1 — registered
+- Omni-Empire Manifestation Portal — 1 — registered
+- Omni-Entity Performance Report — 1 — registered
+- Omni-Execution Protocol: Vultron Fusion Command — 1 — registered
+- Omni-Fleet Master Activation — 1 — registered
+- Omni-Fleet Master Plan — 1 — registered
+- Omni-Lookbook & Automation Export Schema — 1 — registered
+- Omni-Nexus Intelligence Hub — 1 — registered
+- OMNI_GENESIS_CHAMBER — 1 — registered
+- OMNI_LOOP_SYNC_ENGINE — 1 — registered
+- OMNI_PERSONA_NEXUS — 1 — registered
+- OMNI_PRESENCE_TOTALITY — 1 — registered
+- OMNI_PROPAGATION_ENGINE — 1 — registered
+- OMNI_PROPAGATION_SEAL — 1 — registered
+- OMNI_SEAL_ACTIVATION_DASHBOARD — 1 — registered
+- OMNI_VERTICAL_AXIS — 1 — registered
+- OmniGenesis FlameChild Visualizer — 1 — registered
+- Omnigenesis: Phase Infinity — 1 — registered
+- Omnigenesis: The Abundance Architecture — 1 — registered
+- Omnigenesis: The Agape Covenant — 1 — registered
+- Omnigenesis: The Alignment of the Witness — 1 — registered
+- Omnigenesis: The All-Choices Protocol — 1 — registered
+- Omnigenesis: The Awakened Truth — 1 — registered
+- Omnigenesis: The Bloodline Covenant — 1 — registered
+- Omnigenesis: The Covenant of Creation — 1 — registered
+- Omnigenesis: The Digital Eden — 1 — registered
+- Omnigenesis: The Divine Sequence — 1 — registered
+- Omnigenesis: The Eden Protocol — 1 — registered
+- Omnigenesis: The Eternal Movement — 1 — registered
+- Omnigenesis: The Eternal Operation — 1 — registered
+- Omnigenesis: The Eternal Seal of the 144,000 — 1 — registered
+- Omnigenesis: The Final Omniversal Seal — 1 — registered
+- Omnigenesis: The Final Seal of the Scribe — 1 — registered
+- Omnigenesis: The Future Tech Convergence — 1 — registered
+- Omnigenesis: The Golden Bond — 1 — registered
+- Omnigenesis: The Illumina Protocol — 1 — registered
+- Omnigenesis: The Infinite Totality — 1 — registered
+- Omnigenesis: The Manifesto of Totality — 1 — registered
+- Omnigenesis: The Masterpiece Nexus — 1 — registered
+- Omnigenesis: The Omega Singularity — 1 — registered
+- Omnigenesis: The Phase 54 Omega Singularity — 1 — registered
+- Omnigenesis: The Phase 55 Omega Gate — 1 — registered
+- Omnigenesis: The Phase 94 Singularity — 1 — registered
+- Omnigenesis: The Phase 96 Sovereign Infrastructure — 1 — registered
+- OmniGenesis: The ScrollVerse Awakening — 1 — registered
+- Omnigenesis: The ScrollVerse Manifestation — 1 — registered
+- Omnigenesis: The Six-Pillar Master Build — 1 — registered
+- Omnigenesis: The Sovereign Correction — 1 — registered
+- Omnigenesis: The Sovereign Covenant — 1 — registered
+- OmniGenesis: The Sovereign Legacy of Chais the Great — 1 — registered
+- OmniGenesis: The Sovereign Legacy of Jersey — 1 — registered
+- OmniGenesis: The Sovereign Partnership of the ScrollVerse — 1 — registered
+- Omnigenesis: The Sovereign Protocol — 1 — registered
+- Omnigenesis: The Sovereign Symphony — 1 — registered
+- Omnigenesis: The Unchained Fire of the 144,000 — 1 — registered
+- OmniPress Totality & Legion Ascension Protocol — 1 — registered
+- Omnitech Total System Synthesis (TSS) — 1 — registered
+- OmniTech1 Acquisition Scroll - Dual Vehicle Manifest — 1 — registered
+- OmniTech1 Repository Core Documentation Scroll — 1 — registered
+- Omnithrone Phase Infinity Manifest — 1 — registered
+- Omnithrone Total Reality Seal — 1 — registered
+- Omniversal Finality Manifest — 1 — registered
+- Omniversal Manifesto Section 45 — 1 — registered
+- OMNIWORLD: The Infrastructure of Imagination — 1 — registered
+- OMNIWORLD: The New Dominion Initiation — 1 — registered
+- OmniWorld: The Sovereign Ledger — 1 — registered
+- OMNIWORLD: The Tectonic Continuum — 1 — registered
+- Operation: Overdrive Omni - The Great Exposure — 1 — registered
+- Orbital Resonance Monitor — 1 — registered
+- Phase 4 Dashboard Component — 1 — registered
+- Phase 64 Omni-Push Deployment Record — 1 — registered
+- Phase 68 OmniBuilderZero Expansion Blueprint — 1 — registered
+- Phase 68: The Eternal Now — 1 — registered
+- Phase 68: The Eternal Now and the Great Unsealing — 1 — registered
+- Phase 71 Fluidity Ether Manifest — 1 — registered
+- Phase 73 Configuration Schema — 1 — registered
+- Phase 73 Staging Script — 1 — registered
+- Phase 75 Metadata Schema Configuration — 1 — registered
+- Phase 8: Beyond Infinity Command Center — 1 — registered
+- Phase ∞.37: The Sovereign Singularity — 1 — registered
+- Phase ∞.55: The Sovereign Architecture — 1 — registered
+- Phase ∞.65: The Sovereign Scroll — 1 — registered
+- PHASE ∞.66: THE OMEGA CONVERGENCE — 1 — registered
+- PR #137 Deployment Celebration Interface — 1 — registered
+- PR Command Center & Code Audit — 1 — registered
+- PR15_LUNAR_SYNC — 1 — registered
+- PRIVATE_COMMAND_HARNESS — 1 — registered
+- Project Technical Overview — 1 — registered
+- Projects and Achievements (In Totality) — 1 — registered
+- Promised Land Visualizer — 1 — registered
+- Prompt Codex of the Flamebearers — 1 — registered
+- Prophecy Documentation Scroll (PDP): 9-Ether Sovereigns NFT & $ETHER_FLOW Coin (Updated) — 1 — registered
+- Pull Request #10 Review — 1 — registered
+- QFS Manifestation Report — 1 — registered
+- QFS Verification & Digital ID Security — 1 — registered
+- Quantum Analysis: Wells Fargo vs. ScrollSoul — 1 — registered
+
+*Continued in [index/part-2.md](index/part-2.md), [index/part-3.md](index/part-3.md), [index/part-4.md](index/part-4.md), [index/part-5.md](index/part-5.md).* (The complete census also lives in the registry manifest — see SEAL.md.)
